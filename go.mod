@@ -13,7 +13,7 @@ require (
 	github.com/anchore/stereoscope v0.0.0-20220803153229-c55b13fee7e4
 	github.com/anchore/syft v0.53.4
 	github.com/bmatcuk/doublestar/v2 v2.0.4
-	github.com/docker/docker v20.10.17+incompatible
+	github.com/docker/docker v24.0.7+incompatible
 	github.com/dustin/go-humanize v1.0.0
 	github.com/facebookincubator/nvdtools v0.1.4
 	github.com/gabriel-vasile/mimetype v1.4.0
